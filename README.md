@@ -30,7 +30,7 @@ CheckPoint is a production-grade, universal PC game save backup and restore mana
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/checkpoint.git
+   git clone https://github.com/Dishant2510/checkpoint.git
    cd checkpoint
    ```
 
