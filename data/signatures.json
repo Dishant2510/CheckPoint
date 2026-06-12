@@ -1,0 +1,313 @@
+{
+  "patterns": [
+    {
+      "game": "Elden Ring",
+      "paths": ["%APPDATA%/EldenRing"],
+      "extensions": [".sl2"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Dark Souls III",
+      "paths": ["%APPDATA%/DarkSoulsIII"],
+      "extensions": [".sl2"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Dark Souls Remastered",
+      "paths": ["%DOCUMENTS%/NBGI/DARK SOULS REMASTERED"],
+      "extensions": [".sl2"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Sekiro",
+      "paths": ["%APPDATA%/Sekiro"],
+      "extensions": [".sl2"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Hollow Knight",
+      "paths": ["%APPDATA%/../LocalLow/Team Cherry/Hollow Knight"],
+      "extensions": [".dat"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Celeste",
+      "paths": ["%APPDATA%/../Local/Celeste/Saves"],
+      "extensions": [".celeste"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Stardew Valley",
+      "paths": ["%APPDATA%/StardewValley/Saves"],
+      "extensions": [],
+      "launcher": "steam"
+    },
+    {
+      "game": "The Witcher 3",
+      "paths": ["%DOCUMENTS%/The Witcher 3"],
+      "extensions": [".sav"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Cyberpunk 2077",
+      "paths": ["%APPDATA%/../Local/CD Projekt Red/Cyberpunk 2077/SaveGames"],
+      "extensions": [".dat"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Baldur's Gate 3",
+      "paths": ["%APPDATA%/../Local/Larian Studios/Baldur's Gate 3/PlayerProfiles"],
+      "extensions": [".lsv"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Skyrim Special Edition",
+      "paths": ["%DOCUMENTS%/My Games/Skyrim Special Edition/Saves"],
+      "extensions": [".ess", ".skse"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Skyrim",
+      "paths": ["%DOCUMENTS%/My Games/Skyrim/Saves"],
+      "extensions": [".ess"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Fallout 4",
+      "paths": ["%DOCUMENTS%/My Games/Fallout4/Saves"],
+      "extensions": [".fos"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Fallout New Vegas",
+      "paths": ["%DOCUMENTS%/My Games/FalloutNV/Saves"],
+      "extensions": [".fos"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Minecraft Java",
+      "paths": ["%APPDATA%/.minecraft/saves"],
+      "extensions": [],
+      "launcher": "offline"
+    },
+    {
+      "game": "Terraria",
+      "paths": ["%DOCUMENTS%/My Games/Terraria"],
+      "extensions": [".wld", ".plr"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Hades",
+      "paths": ["%DOCUMENTS%/Saved Games/Hades"],
+      "extensions": [".sav"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Hades II",
+      "paths": ["%DOCUMENTS%/Saved Games/Hades II"],
+      "extensions": [".sav"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Undertale",
+      "paths": ["%APPDATA%/../Local/UNDERTALE"],
+      "extensions": [".ini"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Subnautica",
+      "paths": ["%APPDATA%/../LocalLow/Unknown Worlds/Subnautica/SavedGames"],
+      "extensions": [],
+      "launcher": "steam"
+    },
+    {
+      "game": "No Man's Sky",
+      "paths": ["%APPDATA%/HelloGames/NMS"],
+      "extensions": [".hg"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Red Dead Redemption 2",
+      "paths": ["%DOCUMENTS%/Rockstar Games/Red Dead Redemption 2/Profiles"],
+      "extensions": [".dat"],
+      "launcher": "steam"
+    },
+    {
+      "game": "GTA V",
+      "paths": ["%DOCUMENTS%/Rockstar Games/GTA V/Profiles"],
+      "extensions": [".dat"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Resident Evil Village",
+      "paths": ["%APPDATA%/../Local/CAPCOM/re8"],
+      "extensions": [".dat"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Resident Evil 4",
+      "paths": ["%APPDATA%/../Local/CAPCOM/re4"],
+      "extensions": [".dat"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Monster Hunter World",
+      "paths": ["%STEAMID%/582010/remote"],
+      "extensions": [".dat"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Monster Hunter Rise",
+      "paths": ["%STEAMID%/1446780/remote"],
+      "extensions": [".bin"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Death Stranding",
+      "paths": ["%APPDATA%/../Local/KojimaProductions/DeathStranding"],
+      "extensions": [".dat"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Control",
+      "paths": ["%APPDATA%/../Local/Remedy/Control"],
+      "extensions": [".chunk"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Disco Elysium",
+      "paths": ["%APPDATA%/../LocalLow/ZA∕UM/Disco Elysium/SaveGames"],
+      "extensions": [".ntwtf"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Cuphead",
+      "paths": ["%APPDATA%/../LocalLow/StudioMDHR/Cuphead"],
+      "extensions": [".sav"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Ori and the Blind Forest",
+      "paths": ["%APPDATA%/../Local/Ori and the Blind Forest DE"],
+      "extensions": [".xml"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Ori and the Will of the Wisps",
+      "paths": ["%APPDATA%/../Local/Ori and the Will of the Wisps"],
+      "extensions": [".uberstate"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Doom Eternal",
+      "paths": ["%SAVEDGAMES%/id Software/DOOMEternal"],
+      "extensions": [".dat"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Divinity Original Sin 2",
+      "paths": ["%DOCUMENTS%/Larian Studios/Divinity Original Sin 2 Definitive Edition/PlayerProfiles"],
+      "extensions": [".lsv"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Civilization VI",
+      "paths": ["%DOCUMENTS%/My Games/Sid Meier's Civilization VI/Saves"],
+      "extensions": [".Civ6Save"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Stellaris",
+      "paths": ["%DOCUMENTS%/Paradox Interactive/Stellaris/save games"],
+      "extensions": [".sav"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Cities Skylines",
+      "paths": ["%APPDATA%/../Local/Colossal Order/Cities_Skylines/Saves"],
+      "extensions": [".crp"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Europa Universalis IV",
+      "paths": ["%DOCUMENTS%/Paradox Interactive/Europa Universalis IV/save games"],
+      "extensions": [".eu4"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Crusader Kings III",
+      "paths": ["%DOCUMENTS%/Paradox Interactive/Crusader Kings III/save games"],
+      "extensions": [".ck3"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Factorio",
+      "paths": ["%APPDATA%/Factorio/saves"],
+      "extensions": [".zip"],
+      "launcher": "steam"
+    },
+    {
+      "game": "RimWorld",
+      "paths": ["%APPDATA%/../LocalLow/Ludeon Studios/RimWorld by Ludeon Studios/Saves"],
+      "extensions": [".rws"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Valheim",
+      "paths": ["%APPDATA%/../LocalLow/IronGate/Valheim"],
+      "extensions": [".fwl", ".db"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Satisfactory",
+      "paths": ["%APPDATA%/../Local/FactoryGame/Saved/SaveGames"],
+      "extensions": [".sav"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Dying Light 2",
+      "paths": ["%APPDATA%/../Local/Techland/Dying Light 2/out/save"],
+      "extensions": [".sav"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Metro Exodus",
+      "paths": ["%APPDATA%/../Local/4A Games/Metro Exodus"],
+      "extensions": [".dat"],
+      "launcher": "steam"
+    },
+    {
+      "game": "It Takes Two",
+      "paths": ["%APPDATA%/../Local/ItTakesTwo/Saved/SaveGames"],
+      "extensions": [".sav"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Horizon Zero Dawn",
+      "paths": ["%DOCUMENTS%/Horizon Zero Dawn/Saved Game"],
+      "extensions": [".dat"],
+      "launcher": "steam"
+    },
+    {
+      "game": "God of War",
+      "paths": ["%DOCUMENTS%/God of War"],
+      "extensions": [".dat"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Lies of P",
+      "paths": ["%APPDATA%/../Local/LiesofP/Saved/SaveGames"],
+      "extensions": [".sav"],
+      "launcher": "steam"
+    },
+    {
+      "game": "Palworld",
+      "paths": ["%APPDATA%/../Local/Pal/Saved/SaveGames"],
+      "extensions": [".sav"],
+      "launcher": "steam"
+    }
+  ],
+  "save_extensions": [".sav", ".save", ".dat", ".sl2", ".fos", ".ess", ".bin", ".chunk", ".lsv", ".db", ".wld", ".plr", ".xml", ".json"],
+  "save_folder_names": ["saves", "save", "saved", "savegames", "SaveGames", "SavedGames", "Saves", "profiles", "PlayerProfiles"],
+  "save_file_names": ["save.dat", "game.sav", "progress.dat", "slot0.sav", "autosave.sav"]
+}

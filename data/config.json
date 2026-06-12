@@ -1,0 +1,16 @@
+{
+  "backup_directory": "C:\\Users\\kdish\\Desktop\\Projects\\Checkpoint\\backups",
+  "auto_backup_enabled": true,
+  "auto_backup_on_close": true,
+  "monitor_interval_seconds": 10,
+  "max_backups_per_game": 10,
+  "compression_level": 6,
+  "theme": "dark",
+  "minimize_to_tray": true,
+  "show_notifications": true,
+  "log_level": "INFO",
+  "scan_on_startup": false,
+  "backup_retention_days": 90,
+  "differential_backup": false,
+  "portable_mode": false
+}
