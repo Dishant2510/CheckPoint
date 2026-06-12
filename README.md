@@ -1,8 +1,8 @@
-# CheckPoint 🛡️
+# CheckPoint 
 
 CheckPoint is a production-grade, universal PC game save backup and restore manager. Built for power users, collectors, and gamers who want to ensure their progress is never lost.
 
-## ✨ Features
+##  Features
 
 - **Automatic Backups**: Detects when you finish playing a game and saves your progress instantly.
 - **Universal Support**: Works with Steam, Epic Games, emulators, and local installations.
@@ -12,7 +12,7 @@ CheckPoint is a production-grade, universal PC game save backup and restore mana
 - **Modern UI**: Polished "Dark Gaming" aesthetic built with CustomTkinter.
 - **Safe Delete Flow**: Warns you to backup saves before uninstalling games.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Languge**: Python 3.12+
 - **UI Framework**: CustomTkinter
@@ -20,7 +20,7 @@ CheckPoint is a production-grade, universal PC game save backup and restore mana
 - **Monitoring**: psutil & watchdog
 - **Processing**: zipfile (Deflate compression)
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -44,7 +44,7 @@ CheckPoint is a production-grade, universal PC game save backup and restore mana
    python main.py
    ```
 
-## 📦 Packaging & Installer Setup
+##  Packaging & Installer Setup
 
 ### 1. Compile the Executable (EXE)
 
@@ -73,7 +73,7 @@ This installer will:
 * Create Start Menu and Desktop shortcuts (optional)
 * Create a registry-based Windows uninstaller so users can uninstall it cleanly via Settings / Control Panel.
 
-## 📁 Architecture
+##  Architecture
 
 The project follows a modular layered architecture:
 
@@ -84,6 +84,6 @@ The project follows a modular layered architecture:
 - `app/utils`: Configuration, logging, and OS path resolution.
 - `data`: Game signatures and default configurations.
 
-## 🛡️ License
+##  License
 
 This project is licensed under the MIT License.
